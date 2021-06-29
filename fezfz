@@ -1,0 +1,3 @@
+getgenv().audioId = 606241996 -- self explanatory
+getgenv().soundVolume = 10 -- up to 10
+loadstring(game:HttpGet('https://pastebin.com/raw/W63eMGNp'))()
